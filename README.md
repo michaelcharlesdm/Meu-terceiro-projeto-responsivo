@@ -11,7 +11,7 @@
  <p> <b> Dentro deste projeto aprendi HTML, CSS e responsividade. </b> </p> 
 
  <section align="center">
-    <img src=" " width="800px"/>
+    <img src="https://raw.githubusercontent.com/michaelcharlesdm/We-Care/16ae9cebd4a971463b0fc6ad09aeb9ea593dddf1/assets/we%20care%20-%20desktop.png " width="800px"/>
  </section>
  <br>
  <br>
