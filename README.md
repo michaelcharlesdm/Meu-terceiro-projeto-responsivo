@@ -1,7 +1,7 @@
 <h1> We-Care </h1>
 <br>
 <br>
- <h2> Primeiro projeto que aprendi no: <a href="https://rodolfomori.com.br/devclub"> DevClub </h2> 
+ <h2> Projeto que apliquei os conhecimentos que aprendi no: <a href="https://rodolfomori.com.br/devclub"> DevClub </h2> 
 <br>
  
  <h3> Tecnologias aplicadas </h3>
